@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneApp.Application", "Drone.Application\DroneApp.Application.csproj", "{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneApp.Lib", "Drone.Lib\DroneApp.Lib.csproj", "{087CA819-54BB-4DB7-9198-DB86F8647833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneApp.UnitTests", "Drone.UnitTests\DroneApp.UnitTests.csproj", "{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Debug|x86.Build.0 = Debug|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|x86.ActiveCfg = Release|Any CPU
+		{087CA819-54BB-4DB7-9198-DB86F8647833}.Release|x86.Build.0 = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Debug|x86.Build.0 = Debug|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|x86.ActiveCfg = Release|Any CPU
+		{329ED8B3-E9CF-4BDC-8138-9F954FDEEA85}.Release|x86.Build.0 = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B8F2AF1-5A0A-4879-9377-6EB83AC9E344}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

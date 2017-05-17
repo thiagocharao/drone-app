@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="Drone.Application/DroneApp.Application.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Drone.UnitTests/DroneTests.cs">
+    <Files>
+      <File FileName="Drone.Lib/Drone.cs" Line="54" Column="23" />
+      <File FileName="Drone.Application/Program.cs" Line="19" Column="19" />
+      <File FileName="Drone.Lib/IDrone.cs" Line="8" Column="28" />
+      <File FileName="Drone.Lib/Position.cs" Line="6" Column="10" />
+      <File FileName="Drone.Lib/Utils.cs" Line="23" Column="25" />
+      <File FileName="Drone.UnitTests/Test.cs" Line="4" Column="19" />
+      <File FileName="Drone.UnitTests/DroneTests.cs" Line="85" Column="1" />
+      <File FileName="Drone.Lib/IPosition.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="DroneApp" expanded="True">
+            <Node name="DroneApp.UnitTests" expanded="True">
+              <Node name="DroneApp" expanded="True">
+                <Node name="UnitTests" expanded="True">
+                  <Node name="DroneTests" expanded="True">
+                    <Node name="Move_Drone_4" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MarsRover.Lib/Drone.Lib.csproj</String>
+    <String>Drone.Tests/Drone.Tests.csproj</String>
+  </DisabledProjects>
+</Properties>
